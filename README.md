@@ -9,3 +9,7 @@ pip install "apache-airflow[postgres]==2.5.0" --constraint "https://raw.githubus
 
 To Start:
 airflow standalone
+
+Connecting Vs code to ec2 instance
+https://www.youtube.com/watch?v=sQQjMnEkGjs&t=1224s
+
